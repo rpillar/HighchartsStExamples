@@ -1,0 +1,14 @@
+{
+	"category" : "RP_Highcharts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RPHighchartsTest",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

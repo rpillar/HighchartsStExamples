@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"canBeRoot" : "RichardPillar 11/16/2015 19:25" },
+	"instance" : {
+		"femaleWeightHeightSeries" : "RichardPillar 12/4/2015 23:09",
+		"initialize" : "RichardPillar 11/16/2015 18:50",
+		"maleWeightHeightSeries" : "RichardPillar 12/4/2015 23:10",
+		"renderColumnChartOn:" : "RichardPillar 11/17/2015 19:27",
+		"renderContentOn:" : "RichardPillar 12/4/2015 23:16",
+		"renderLineChartOn:" : "RichardPillar 11/17/2015 22:18",
+		"renderScatterChartOn:" : "RichardPillar 12/4/2015 23:13",
+		"renderScatterChartRegressionOn:" : "RichardPillar 12/4/2015 23:18",
+		"renderStackedAreaChartOn:" : "RichardPillar 11/17/2015 19:08",
+		"updateRoot:" : "RichardPillar 12/4/2015 23:08" } }
